@@ -29,7 +29,7 @@
 
 ## **3. Install VirtualBox 7.0.18**
 - Installation Page for [VirtualBox 7.0.18](https://www.virtualbox.org/wiki/Downloads).
-- Press [Windows Hosts](https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe) option to start downloading.
+- Click [Windows Hosts](https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe) option to start downloading.
 
  <img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/0235552a-5dc1-4d6d-ae9c-8dabb8ce7585" width="200" height="80">
 
@@ -44,14 +44,14 @@
 ## **4. Install Ubuntu 20.04.6**
 - Installation Page for [Ubuntu 20.04.6](https://www.releases.ubuntu.com/focal/).
 - Choose the Desktop image option.
-- Press [64-bit PC (AMD64) desktop image](https://www.releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso) to start downloading.
+- Click [64-bit PC (AMD64) desktop image](https://www.releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso) to start downloading.
 
  <img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/8de7bb31-6a34-4d3a-a864-f4815d68c237" width="410" height="120">
 
    _It must be downloading now..._
 
    
-****
+***
 
 
 ## **5. Facilitate access to your Ubuntu os**
@@ -69,5 +69,52 @@
 
 
 - Paste Ubuntu File in it
+
+
+   
+***
+
+
+## **6. Install Ubuntu on VirtualBox _(Step by Step)_**
+_Installing Ubuntu Walkthrough_
+
+- Click **New** .
+  
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/3427b0e8-6d92-41a4-aacc-84fcbbd66dbd" width="210" height="60">
+
+- Name the VM _Ubuntu 20.04.06_ .
+- Choose the right location for **ISO Image*.
+  
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/c7b351d9-01b9-4f89-ba9e-1e1a19c0a91b" width="210" height="60">
+
+> Other -> Thic PC  ->  OS(C:) -> Linux -> Choose the Ubuntu File
+
+- Click _Next_ .
+
+- Increase the Processors depending on your PC specifications.
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/75e7bb36-8e19-402d-80ca-563334a01ba5" width="210" height="60">
+
+
+- Click _Next_ .
+
+- Change the disk size according to your preferences.
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/def6067a-2932-4a6f-8eb2-8f04e3e3d24a" width="210" height="60">
+
+
+- Click _Finish_ .
+
+
+***
+
+
+## **7. Run Ubuntu**
+- Click **Show**
+  
+**OR**
+
+- Double Click on Ubuntu
+
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/484c501f-43a0-4066-aee1-7656e8a64cda" width="210" height="60">
+
 
 

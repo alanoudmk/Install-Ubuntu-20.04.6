@@ -24,7 +24,7 @@
 
 
 
-****
+***
 
 
 ## **3. Install VirtualBox 7.0.18**
@@ -38,7 +38,7 @@
 
 
 
-****
+***
 
 
 ## **4. Install Ubuntu 20.04.6**
@@ -49,5 +49,25 @@
  <img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/8de7bb31-6a34-4d3a-a864-f4815d68c237" width="410" height="120">
 
    _It must be downloading now..._
+
+   
+****
+
+
+## **5. Facilitate access to your Ubuntu os**
+- Cut the Ubuntu File
+
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/f127ea3a-b28d-4152-9333-444bfb0b6b8c" width="200" height="60">
+
+- Go to:
+> Thic PC  ->  OS(C:)
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/8e157a7a-2bdb-4bb9-9af5-1c0bfbca777d" width="200" height="60">
+
+- Creat a new file and name it Linux 
+
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/52b166ba-b644-455c-be15-9d797d191688" width="410" height="120">
+
+
+- Paste Ubuntu File in it
 
 

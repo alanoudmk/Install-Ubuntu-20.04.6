@@ -57,7 +57,7 @@
 ## **5. Facilitate access to your Ubuntu os**
 - Cut the Ubuntu File
 
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/f127ea3a-b28d-4152-9333-444bfb0b6b8c" width="200" height="60">
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/f127ea3a-b28d-4152-9333-444bfb0b6b8c" width="480" height="40">
 
 - Go to:
 > Thic PC  ->  OS(C:)
@@ -78,30 +78,33 @@
 ## **6. Install Ubuntu on VirtualBox _(Step by Step)_**
 _Installing Ubuntu Walkthrough_
 
-- Click **New** .
+- Click **New**.
   
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/3427b0e8-6d92-41a4-aacc-84fcbbd66dbd" width="210" height="60">
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/3427b0e8-6d92-41a4-aacc-84fcbbd66dbd" width="400" height="60">
 
 - Name the VM _Ubuntu 20.04.06_ .
+
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/c7b351d9-01b9-4f89-ba9e-1e1a19c0a91b" width="510" height="180">
+
 - Choose the right location for **ISO Image*.
-  
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/c7b351d9-01b9-4f89-ba9e-1e1a19c0a91b" width="210" height="60">
 
 > Other -> Thic PC  ->  OS(C:) -> Linux -> Choose the Ubuntu File
+  
 
-- Click _Next_ .
+
+- Click _Next_.
 
 - Increase the Processors depending on your PC specifications.
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/75e7bb36-8e19-402d-80ca-563334a01ba5" width="210" height="60">
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/75e7bb36-8e19-402d-80ca-563334a01ba5" width="510" height="180">
 
 
-- Click _Next_ .
+- Click _Next_.
 
 - Change the disk size according to your preferences.
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/def6067a-2932-4a6f-8eb2-8f04e3e3d24a" width="210" height="60">
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/def6067a-2932-4a6f-8eb2-8f04e3e3d24a" width="350" height="100">
 
 
-- Click _Finish_ .
+- Click _Finish_.
 
 
 ***
@@ -114,7 +117,15 @@ _Installing Ubuntu Walkthrough_
 
 - Double Click on Ubuntu
 
-<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/484c501f-43a0-4066-aee1-7656e8a64cda" width="210" height="60">
+<img src="https://github.com/alanoudmk/Install-Ubuntu-20.04.6/assets/127528672/484c501f-43a0-4066-aee1-7656e8a64cda" width="400" height="80">
 
 
+
+***
+
+
+
+## **Useful Resources**
+
+- [Operating Systems Fundamentals](https://www.coursera.org/learn/akamai-operating-systems/home/info) provided by Coursera.
 

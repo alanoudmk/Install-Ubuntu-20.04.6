@@ -127,5 +127,5 @@ _Installing Ubuntu Walkthrough_
 
 ## **Useful Resources**
 
-- [Operating Systems Fundamentals](https://www.coursera.org/learn/akamai-operating-systems/home/info) provided by Coursera.
+- [Operating Systems Fundamentals](https://www.coursera.org/learn/akamai-operating-systems/home/info) course provided by Coursera.
 
